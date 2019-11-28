@@ -1,7 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Muttakinur</title><link>/</link><description>Recent content on Muttakinur</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Muttakinur Rahman Chowdhury</title><link>/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resume/</guid><description>Contact: email
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muttakinur</title>
+    <link>/</link>
+    <description>Recent content on Muttakinur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Muttakinur Rahman Chowdhury</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Contact: email
 SKILLS Python, C, Go, Flask, Javascript, Leadership, Code optimization, REST API, DevOps, Microservices, Docker, Jenkins, Ansible, AWS, ELK, Prometheus, Grafana, Consul, Saltstack, Postgresql, Mysql, nginx, scrapy, Git, TDD, Agile.
 EXPERIENCE Cognitive Insight LTD, Dhaka, Bangladesh — Senior Software Engineer 2018 - Present
-Review code, design, and security. Developed web crawler for corpus development using scrapy. Developed corpus development tools for Bangla Spell Checker. Developed API services using Python, Postgres, Flask, REST.</description></item><item><title>Papers</title><link>/papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/papers/</guid><description> An Open Source Tesseract Based Optical Character Recognizer for Bangla Script. link
-Integrating Bangla script recognition support in Tesseract OCR. link</description></item><item><title>Projects</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description> Gluu Server Docker Edition link
-A tool to facilitate LDAP replication and log centralization for a cluster of Gluu Servers link
-Gluu Server and containership.io integration link</description></item></channel></rss>
+ Review code, design, and security. Developed web crawler for corpus development using scrapy. Developed corpus development tools for Bangla Spell Checker. Developed API services using Python, Postgres, Flask, REST.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description> An Open Source Tesseract Based Optical Character Recognizer for Bangla Script. link
+ Integrating Bangla script recognition support in Tesseract OCR. link
+  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description> Gluu Server Docker Edition link
+ A tool to facilitate LDAP replication and log centralization for a cluster of Gluu Servers link
+ Gluu Server and containership.io integration link
+  </description>
+    </item>
+    
+  </channel>
+</rss>
